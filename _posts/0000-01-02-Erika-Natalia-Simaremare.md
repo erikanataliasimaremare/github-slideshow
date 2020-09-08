@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Erika cantik kaliiii ah
+della 
 Use the left arrow to go back!
